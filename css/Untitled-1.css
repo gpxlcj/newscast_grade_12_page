@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family:"Arial Unicode MS";}
+#pic_back
+{
+	background:url(../pic/amp.jpg);
+	width:960px;
+	height:600px;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+}
+#pic_back_back
+{
+	background:url(../pic/zxz.jpg);
+	width:1200px;
+	height:7800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	position:relative;
+}
+
+.Table0
+{
+	position:absolute;
+}
+#Table_Hubei
+{
+	left:600px;
+	top:380px;
+	color:#000;}
+#Table_BeiJ
+{
+left:630px;
+	top:220px;
+	width:80px;
+	height:20px;
+	border:1px;
+	z-index:19;
+	text-align:center;
+	background-color:#549688;
+	border-radius:5px;
+	color:#fff;
+	cursor:pointer;}
+#Table_Aomen
+{
+left:610px;
+	top:540px;
+	color:#000;}
+#Table_HongKong
+{
+left:670px;
+	top:530px;
+	color:#000;}
+#Table_TaiW
+{
+left:730px;
+	top:500px;
+	color:#000;}
+	#Table_ShanDong
+{
+left:680px;
+	top:280px;
+	color:#000;}
+#Table_LiaoN
+{
+left:730px;
+	top:180px;
+	color:#000;}
+#Table_GanS
+{
+left:400px;
+	top:220px;
+	color:#000;}
+#Table_SChuan
+{
+left:460px;
+	top:380px;
+	color:#000;}
+#Table_JLin
+{
+left:740px;
+	top:150px;
+	color:#000;}
+	#Table_HaiN
+{
+left:580px;
+	top:580px;
+	color:#000;}
+	#Table_ShanX
+{
+left:550px;
+	top:330px;
+	color:#000;}
+	#Table_HeN
+{
+left:620px;
+	top:330px;
+	color:#000;}
+	#Table_ShanXi
+{
+left:600px;
+	top:280px;
+	color:#000;}
+	#Table_HLJ
+{
+left:730px;
+	top:80px;
+	color:#000;}
+	#Table_ZJ
+{
+left:710px;
+	top:400px;
+	color:#000;}
+	#Table_HUN
+{
+left:600px;
+	top:430px;
+	color:#000;}
+.Table1
+{
+	width:60px;
+	height:20px;
+	border:1px;
+	z-index:19;
+	text-align:center;
+	background-color:#549688;
+	border-radius:5px;
+	color:#fff;
+	cursor:pointer;
+	position:absolute;
+}
+.Table2
+{
+	width:80px;
+	text-align:center;
+	margin:10px;
+	display:none;
+	color:#fff;
+	cursor:pointer;
+	position:absolute;
+	z-index:1000;
+	border-radius:5px;
+	left:10px;
+	top:100px;
+	position:absolute;
+}
+
+.Table_Table
+{
+	
+	border:1px;
+	background:#789262;
+	border-bottom-style:solid;
+	border-radius:5px;
+}
+.Table_tr
+{
+	width:100;
+}
